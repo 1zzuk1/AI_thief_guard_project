@@ -4,7 +4,7 @@ This repository contains several trained Q-learning agents for the Heist environ
 
 ---
 
-## Recommended Agents (Worth Testing)
+## Recommended Agents (Worth Testing First must be downloaded from **https://drive.google.com/drive/u/8/folders/1VJ-pyZoPRPVIkupTyyEKbEz-cTGWzPyC**)
 
 1. **guard\_agent.pkl**
 
